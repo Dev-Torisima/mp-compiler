@@ -30,9 +30,11 @@ Third-Party Notice
 
 本ソフトウェアには.NET Runtimeの一部が含まれます。
 それは以下のライセンスで提供されます。
+含まれる第三者コンポーネントについては ThirdPartyNotices.txt にあります。
 
 This software includes portions of the .NET Runtime,
 which is licensed under the MIT License.
+Third party notices are in "ThirdPartyNotices.txt".
 
 -----------
 
