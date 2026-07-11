@@ -2,7 +2,7 @@
 mp言語用のコンパイラーです  
 
 ## 概要
-コンパイラーの対応するのはWindows（32bit、64bit、ARM64版）のみです（試験版は除く）  
+コンパイラーの対応するのはWindows（32bit、64bit、ARM64版）、Linux（64bit、arm、arm64版）のみです（試験版は除く）  
 原則、Windows10以降での使用を想定しています  
 出力ファイルはhtmlまたはWindowsの64bit実行ファイルです  
 これはすべての64bitアプリを実行できるWindowsで使用可能です
